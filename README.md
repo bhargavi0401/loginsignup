@@ -1,4 +1,9 @@
 # loginsignup
+This is a login signup app. It's UI is as follow
+![image](https://github.com/bhargavi0401/loginsignup/assets/99488704/77029037-51f9-4227-baae-6dd37bc48a03)
+![image](https://github.com/bhargavi0401/loginsignup/assets/99488704/060686e3-6dc7-4e16-87e9-af4bc8b772fa)
+
+
 
 A new Flutter project.
 
